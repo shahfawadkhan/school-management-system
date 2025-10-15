@@ -6,25 +6,37 @@ This project allows managing students, teachers, classes, and fees all in one un
 🚀 Features
 
 ✅ Role-based Authentication (Admin / Teacher / Student)
+
 ✅ Admin Dashboard for managing users, classes, subjects, and student fees
+
 ✅ Teacher Dashboard for assigning marks and managing student records
+
 ✅ Student Dashboard for viewing results, personal info, and fee details
+
 ✅ Secure JWT Authentication
+
 ✅ MongoDB for data storage
+
 ✅ Responsive React Frontend
+
 ✅ RESTful APIs using Express and Node.js
 
 ⚙️ Important Note: Admin Account Creation
 
 🚫 Registration is not available through the UI.
+
 Before you can access the system, you need to manually create the first Admin using Postman or directly through MongoDB Compass.
 
 🛠️ Tech Stack
 
 Frontend: React.js, Tailwind CSS
+
 Backend: Node.js, Express.js
+
 Database: MongoDB
+
 Authentication: JWT (JSON Web Token)
+
 Version Control: Git & GitHub
 
 ⚙️ Installation & Setup

@@ -28,10 +28,15 @@ Authentication: JWT (JSON Web Token)
 Version Control: Git & GitHub
 
 ⚙️ Installation & Setup
+
 1️⃣ Clone the repository
+
 git clone https://github.com/shahfawadkhan/school-management-system.git
+
 2️⃣ Navigate into the project
+
 cd school-management-system
+
 3️⃣ Install dependencies
 
 Backend:
@@ -46,10 +51,10 @@ npm install
 npm run dev (frontend,backend)
 
 📁 Folder Structure
-school-management-system/
-│
-├── backend/       # Node.js + Express backend
-├── frontend/      # React frontend
+school-management-system
+
+├── backend/       
+├── frontend/      
 ├── .gitignore
 ├── README.md
 └── package.json
